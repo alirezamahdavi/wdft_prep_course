@@ -1,0 +1,10 @@
+img.one{
+    padding: 10px;
+    background-color:grey;
+}
+
+img.two{
+    border-style: solid;
+    border-width: 10px;
+    border-color: grey;
+}
